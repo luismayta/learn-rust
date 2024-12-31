@@ -1,1 +1,1 @@
-# Welcome to base-learn-template documentation
+# Welcome to learn-rust documentation
